@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__gdpr, a {
+    font-size: var(--size-xs);
+    color: var(--clr-light);
+}
+.footer__gdpr, a:hover {
+    color: var(--clr-ac1);
+}
+
+.footer__copyright {
+    text-align: center;
+    font-size: var(--size-xs);
+}
