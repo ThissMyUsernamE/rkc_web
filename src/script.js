@@ -2,8 +2,11 @@ import loadCSS from "./utils/load-css.js";
 loadCSS('./styles/modern-normalise.css');
 loadCSS('./styles/style.css');
 loadCSS('./styles/components/header.css');
-loadCSS('./styles/components/hero.css');
 loadCSS('./styles/components/mobile-nav.css');
+loadCSS('./styles/components/hero.css');
+loadCSS('./styles/components/about.css');
+
+loadCSS('./styles/components/donate.css');
 loadCSS('./styles/components/footer.css');
 loadCSS('./styles/utils.css');
 
